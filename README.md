@@ -2,9 +2,9 @@
 This repository stores files of various programs I have coded.
 
 ## Townle (townle.py)
-This python program is the code behind my guessing game "Townle," inspired by Wordle, Globle, 
-and Worldle. Essentially, the player tries to guess the mystery city, with each guess 
-getting a measure of accuracy provided by the system. The player plays "hot or cold" 
+This python program is the code behind my guessing game "Townle," inspired by Wordle, 
+Globle, and Worldle. Essentially, the player tries to guess the mystery city, with each 
+guess getting a measure of accuracy provided by the system. The player plays "hot or cold" 
 until they have found the mystery city. 
 
 Townle is still being workshopped and only exists as a python terminal game at this 
@@ -18,12 +18,14 @@ states, and individual countries.
 ## Worst Company Simulation (employees.py)
 This python program simulates a model of the worst company, in which an employee's 
 mood and well-being varies with the simulated work environment and coworker 
-relationships.
+relationships. I coded the program with my class partner, Maryam Elbeltagy, for 
+CS 313E at the University of Texas at Austin.
 
 ## Evil Wordle (evil_wordle.py)
 This python program creates an "Evil Wordle" game in which the mystery word changes every 
 guess, but the correctly guessed letters and placement are passed onto the new 
-word until there is only one viable word remaining.
+word until there is only one viable word remaining. I coded the program with my class 
+partner, Maryam Elbeltagy, for CS 313E at the University of Texas at Austin.
 
 
 
