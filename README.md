@@ -1,5 +1,5 @@
 # nicolemlorino_csprojects
-This repository stores files of various programs I have coded.
+Wecome! This repository stores files of various programs I have coded.
 
 ## Townle (townle.py)
 This python program is the code behind my guessing game "Townle," inspired by Wordle, 
